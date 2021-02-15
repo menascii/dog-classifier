@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4E3E0F52-4AEE-42C2-B098-10746D34EF48"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70E04D6D-278B-4F86-9505-2B84BBDC89B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodClassifier/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "70E04D6D-278B-4F86-9505-2B84BBDC89B5 - 63436e4acf6b164c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodClassifier.ViewController.__deallocating_deinit"
+                  moduleName = "FoodClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bigmac/Programming/iOS%20Development/FoodClassifier/FoodClassifier/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "70E04D6D-278B-4F86-9505-2B84BBDC89B5 - b3d2836295307cb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodClassifier.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FoodClassifier.ViewController"
+                  moduleName = "FoodClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bigmac/Programming/iOS%20Development/FoodClassifier/FoodClassifier/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "70E04D6D-278B-4F86-9505-2B84BBDC89B5 - 157e43e7e7b4a689"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodClassifier.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FoodClassifier.ViewController"
+                  moduleName = "FoodClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bigmac/Programming/iOS%20Development/FoodClassifier/FoodClassifier/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "218">
+               </Location>
+               <Location
+                  uuid = "70E04D6D-278B-4F86-9505-2B84BBDC89B5 - 16fd429cce73ebb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodClassifier.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FoodClassifier.ViewController&gt;"
+                  moduleName = "FoodClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bigmac/Programming/iOS%20Development/FoodClassifier/FoodClassifier/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "70E04D6D-278B-4F86-9505-2B84BBDC89B5 - 8e0d1007c8c3304d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodClassifier.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FoodClassifier.ViewController&gt;"
+                  moduleName = "FoodClassifier"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bigmac/Programming/iOS%20Development/FoodClassifier/FoodClassifier/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "141">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
